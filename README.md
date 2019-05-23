@@ -1,4 +1,4 @@
-"# SimpleRestService" 
+# SimpleRestService
 
 Technologies used:
 - Java 8
