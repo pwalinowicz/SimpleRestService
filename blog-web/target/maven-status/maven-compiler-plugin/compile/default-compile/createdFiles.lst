@@ -1,0 +1,4 @@
+com\rest\blog\JAXRSConfiguration.class
+com\rest\blog\server\Post.class
+com\rest\blog\server\PostDAO.class
+com\rest\blog\server\PostService.class
