@@ -17,9 +17,9 @@ A "Post" have the attributes [id:String, title:String, content:String].
 JSON is default type of consumed/produced data.
 	
 Run using payara-micro local distribution jar using following commands:
-	1. mvn clean install
-	2. java -jar payara-micro-[version_of_your_local_payara_micro].jar --deploy [path_to_target_webservice_war]
-	3. java -jar [path_to_target_client_jar]
+1. mvn clean install
+2. java -jar payara-micro-[version_of_your_local_payara_micro].jar --deploy [path_to_target_webservice_war]
+3. java -jar [path_to_target_client_jar]
 
 TODO:
 - configure embedded server (e.g. Tomcat, Jetty etc.)
