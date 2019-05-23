@@ -1,89 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82445a45-91f8-4314-9343-af56d33e69ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/blog_web_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/blog_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_json_bind_javax_json_bind_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_json_javax_json_api_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_annotation_processor_6_0_16_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/blog-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/nbactions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/client/IMediaTypeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/client/IPostClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/client/IStringObjectBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/client/JsonMediaTypeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/client/JsonStringObjectBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/client/PostClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/client/PostJerseyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/src/main/java/com/rest/blog/client/console/ConsolePostClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/target/blog-client-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/blog-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/nb-configuration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/nbactions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/src/main/java/com/rest/blog/JAXRSConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/src/main/java/com/rest/blog/server/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/src/main/java/com/rest/blog/server/PostDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/src/main/java/com/rest/blog/server/PostService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/target/surefire-reports/TEST-com.pierceecom.blog.HelloPierceResourceTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-web/target/surefire-reports/com.pierceecom.blog.HelloPierceResourceTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-test/integration-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-test/src/test/java/com/rest/blog/BlogTestIntegr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integration-test/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restApp.iml" afterDir="false" />
-    </list>
+    <list default="true" id="82445a45-91f8-4314-9343-af56d33e69ba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/blog-web/target/" />
@@ -99,7 +17,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,6 +54,9 @@
       <find>pierce</find>
       <find>code</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Pawel\Desktop\restApp\blog-client</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -173,11 +113,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="339" />
-    <option name="width" value="1215" />
-    <option name="height" value="708" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="35" />
+    <option name="y" value="195" />
+    <option name="width" value="1271" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -196,6 +136,11 @@
               <item name="codetest" type="b2602c69:ProjectViewProjectNode" />
               <item name="restApp" type="462c0819:PsiDirectoryNode" />
               <item name="blog-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restApp" type="462c0819:PsiDirectoryNode" />
+              <item name="blog-web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,7 +285,7 @@
       <workItem from="1555356737320" duration="23000" />
       <workItem from="1555357132241" duration="327000" />
       <workItem from="1558630949090" duration="333000" />
-      <workItem from="1558631338959" duration="1157000" />
+      <workItem from="1558631338959" duration="1741000" />
     </task>
     <servers />
   </component>
@@ -377,12 +322,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61847000" />
+    <option name="totallyTimeSpent" value="62431000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="339" width="1215" height="708" extended-state="0" />
+    <frame x="35" y="195" width="1271" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2926407" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.27910817" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.2153518" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -577,13 +523,6 @@
     <entry file="file://$PROJECT_DIR$/blog-web/src/test/java/com/rest/blog/HelloPierceResourceTest.java" />
     <entry file="file://$PROJECT_DIR$/blog-web/src/test/java/com/rest/blog/PostServiceTest.java" />
     <entry file="file://$PROJECT_DIR$/blog-web/src/main/java/com/rest/blog/HelloPierceResource.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog-web/src/main/java/com/rest/blog/JAXRSConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -591,13 +530,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -651,6 +583,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
