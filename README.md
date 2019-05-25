@@ -5,6 +5,7 @@ Technologies used:
 - JAX-RS
 - Jersey
 - Spring
+- Maven
 - Console App
         
 Service has following functionalities:
